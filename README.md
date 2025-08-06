@@ -1,4 +1,3 @@
-# HR-Employees-Analysis-Dashboard-Project
 
 ##🧠 Employee HR Analytics Dashboard — Power BI Project
 
