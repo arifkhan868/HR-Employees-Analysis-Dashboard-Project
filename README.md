@@ -8,8 +8,11 @@ I created this project with a practical business use case in mind — helping HR
 ## 🎯 Project Goals
 
 🔹  Analyze key HR metrics like attrition rate, average income, and experience
+
 🔹  Identify department- and job-based trends
+
 🔹  Visualize data in a way that’s clear, interactive, and useful
+
 🔹  Understand how factors like gender, education, and job role relate to attrition
 
 ## 📊 Dashboard Highlights
