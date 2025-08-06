@@ -82,6 +82,18 @@ Tree Map: Job Role vs Employee Count
 
 ✅ - Help HR teams with retention and workforce planning
 
+## 🚀 Future Improvements
+🧪 - Add drill-through reports for detailed employee view
+
+🧪 - Use Python integration for predictive attrition modeling
+
+🧪 - Connect to real-time SQL database for live updates
+
+## 🙋 About Me
+I created this dashboard as part of my data analytics learning journey. I’m passionate about turning data into actionable insights and building real-world projects using tools like Power BI.
+
+📫 You can connect with me on LinkedIn to see more of my work!
+
 
 
 
