@@ -50,3 +50,12 @@ Tree Map: Job Role vs Employee Count
 
 🟢 - Fully interactive design for exploring data with filters and drill-downs
 
+## 🛠️ Tools & Techniques Used
+🔧 - Power BI Desktop
+🔧 - DAX (for creating custom measures)
+🔧 - Power Query (for data cleaning and shaping)
+🔧 - Data Modeling (to connect multiple tables via relationships)
+
+
+
+
