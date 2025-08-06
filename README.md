@@ -12,3 +12,41 @@ I created this project with a practical business use case in mind — helping HR
 🔹  Visualize data in a way that’s clear, interactive, and useful
 🔹  Understand how factors like gender, education, and job role relate to attrition
 
+## 📊 Dashboard Highlights
+
+🟢 - KPI Cards:
+
+Total Employees
+
+Attrition Rate
+
+Average Monthly Income
+
+Average Age
+
+🟢 - Slicers for:
+
+Department
+
+Gender
+
+Education Field
+
+Job Role
+
+Marital Status
+
+🟢 - Visuals Used:
+
+Bar Charts: Department-wise employee distribution
+
+Pie Charts: Gender & Education breakdown
+
+Area Chart: Attrition trend over time
+
+Column Charts: Monthly income by role/education
+
+Tree Map: Job Role vs Employee Count
+
+🟢 - Fully interactive design for exploring data with filters and drill-downs
+
