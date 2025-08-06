@@ -63,6 +63,15 @@ Tree Map: Job Role vs Employee Count
 
 🔧 - Data Modeling (to connect multiple tables via relationships)
 
+## 📚 What I Learned
+💡 - How to build KPI cards and visuals for storytelling
+
+💡 - Writing DAX formulas for complex metrics
+
+💡 - Structuring dashboards with end users in mind
+
+💡 - Translating raw data into real business insights
+
 
 
 
