@@ -72,6 +72,18 @@ Tree Map: Job Role vs Employee Count
 
 💡 - Translating raw data into real business insights
 
+## 🧩 Potential Use Case
+
+✅ - Track employee attrition trends
+
+✅ - Identify departments with high turnover
+
+✅ - Compare salaries, education levels, and experience across roles
+
+✅ - Help HR teams with retention and workforce planning
+
+
+
 
 
 
